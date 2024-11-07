@@ -1,0 +1,5 @@
+Comando utilizado para rodar os arquivo e gerar os gráficos. 
+
+    python reconstrução3D.py c1.txt c2.txt c1cal.txt c2cal.txt calibrador_ref.txt result2D_C1 result2D_C2 result3D  
+
+Codigo esse que gera os graficos 2D e 3D.
